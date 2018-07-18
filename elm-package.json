@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Partially apply maybes to a function, useful for creating records.",
     "repository": "https://github.com/TimothyDespair/elm-maybe-applicator.git",
     "license": "BSD3",
