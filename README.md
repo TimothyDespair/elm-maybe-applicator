@@ -1,5 +1,12 @@
 # Maybe.Applicator
 
+## Update:
+I've since found that this exact function exists in Maybe.Extra
+along with a bunch of other useful functions. Go check out that
+package. I don't know how to unpublish consider this package
+more or less a gist of how to use Maybe.Extra.andMap to chain
+apply Maybe values to a Record.
+
 A helper function for partially applying "Maybe" values to a function.
 
 I made this because I found myself using a pattern where I was creating
